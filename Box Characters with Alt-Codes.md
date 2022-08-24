@@ -11,7 +11,7 @@ This document is for programmers. Those who are not using a **GUI** but still wa
 <tr><td>┌</td><td>218<td>─</td><td>196<td>┬</td><td>194</td><td>┐</td><td>191</td></tr>
 <tr><td>│</td><td>179<td> </td><td> <td>│</td><td>179</td><td>│</td><td>179</td></tr>
 <tr><td>├</td><td>195<td>─</td><td>196<td>┼</td><td>194</td><td>┤</td><td>180</td></tr>
-<tr><td>└</td><td>192<td>─</td><td>196<td>┴</td><td>193</td><td>┘</td><td>191</td></tr>
+<tr><td>└</td><td>192<td>─</td><td>196<td>┴</td><td>193</td><td>┘</td><td>217</td></tr>
 </table>
 
 <br/><br/><br/>
